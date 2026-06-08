@@ -1,0 +1,26 @@
+[
+    {
+        "P_absolute_url": "naman2809/data/refs/heads/main/data/AdventureWorks_Calendar.csv",
+        "P_sink_folder": "AdventureWorks_Calendar",
+        "P_sink_file": "AdventureWorks_Calendar.csv"
+    },
+    {
+        "P_absolute_url": "naman2809/data/refs/heads/main/data/AdventureWorks_Customers.csv",
+        "P_sink_folder": "AdventureWorks_Customers",
+        "P_sink_file": "AdventureWorks_Customers.csv"
+    },
+    {
+        "P_absolute_url": "naman2809/data/refs/heads/main/data/AdventureWorks_Product_Categories.csv",
+        "P_sink_folder": "AdventureWorks_Product_Categories",
+        "P_sink_file": "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "P_absolute_url": "naman2809/data/refs/heads/main/data/AdventureWorks_Product_Subcategories.csv",
+        "P_sink_folder": "AdventureWorks_Product_Subcategories",
+        "P_sink_file": "AdventureWorks_Product_Subcategories.csv"
+    },
+    {    "P_absolute_url": "naman2809/data/refs/heads/main/data/AdventureWorks_Products.csv",
+        "P_sink_folder": "AdventureWorks_Products",
+        "P_sink_file": "AdventureWorks_Products.csv"
+    }
+]
